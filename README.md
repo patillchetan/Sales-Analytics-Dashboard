@@ -261,9 +261,3 @@ Possible extensions include:
 ## Author
 
 **Chetan Patil**
-
-B.Tech – Artificial Intelligence & Data Science
-
----
-
-*This project was developed as a portfolio project to demonstrate practical data analytics and business intelligence skills.*
