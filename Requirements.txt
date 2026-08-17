@@ -1,0 +1,7 @@
+Python libraries used in your data cleaning and EDA notebooks
+
+pandas
+numpy
+matplotlib
+seaborn
+plotly
