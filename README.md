@@ -121,7 +121,7 @@ SQL was used to answer business questions involving:
 The SQL queries are available in:
 
 ```text
-SQL/sales_queries.sql
+SQL/analysis_queries.sql
 ```
 
 ## Power BI Dashboard
@@ -190,20 +190,6 @@ Focuses on geographic, customer, and operational performance using:
 * Review shipping modes with higher delivery times.
 * Use historical and YoY trends to support inventory and marketing planning.
 
-## Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](Images/executive_overview.png)
-
-### Product & Profitability
-
-![Product & Profitability](Images/product_profitability.png)
-
-### Regional & Customer Analysis
-
-![Regional & Customer Analysis](Images/regional_customer_analysis.png)
-
 ## Repository Structure
 
 ```text
@@ -222,10 +208,12 @@ Sales-Analytics-Dashboard/
 ├── PowerBI/
 │   └── Sales_Analytics_Dashboard.pbix
 │
-├── Images/
-│   ├── executive_overview.png
-│   ├── product_profitability.png
-│   └── regional_customer_analysis.png
+├── SQL/
+│   ├── analysis_queries.sql
+│   ├── create_database.sql
+│   ├── create_table.sql
+│   ├── data_quality_checks.sql
+│   └── import_data.sql
 │
 ├── README.md
 └── requirements.txt
