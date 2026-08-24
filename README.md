@@ -181,7 +181,7 @@ Provides a high-level view of overall business performance.
 * Top-performing Products
 * Interactive Slicers
 
-![Executive Overview](executive-overview.jpg)
+![Executive Overview](Images/executive-overview.jpg)
 
 ---
 
@@ -202,7 +202,7 @@ Focuses on product-level performance and profitability.
 
 This page helps identify products that generate high revenue but may have weak or negative profitability.
 
-![Product & Profitability](product-profitability.jpg)
+![Product & Profitability](Images/product-profitability.jpg)
 
 ---
 
@@ -221,7 +221,7 @@ Focuses on geographic, customer, and shipping performance.
 * Shipping Mode Analysis
 * Delivery Performance
 
-![Regional & Customer Analysis](regional-customer-analysis.jpg)
+![Regional & Customer Analysis](Images/regional-customer-analysis.jpg)
 
 ---
 
@@ -297,29 +297,34 @@ Based on the analysis, the following actions can be considered:
 ## 📂 Repository Structure
 
 ```text
+```text
 Sales-Analytics-Dashboard/
 │
-├── Python/
+├── 📂 Dataset/
+│   ├── sample_superstore.csv
+│   └── cleaned_superstore.csv
+│
+├── 📂 Python/
 │   ├── Data_Cleaning.ipynb
 │   └── EDA.ipynb
 │
-├── images/
-│   ├── executive-overview.jpg
-│   ├── product-profitability.jpg
-│   └── regional-customer-analysis.jpg
-│
-├── SQL/
+├── 📂 SQL/
 │   ├── create_database.sql
 │   ├── create_table.sql
 │   ├── import_data.sql
 │   ├── data_quality_checks.sql
 │   └── analysis_queries.sql
 │
-├── Sales_Analytics_Dashboard.pbix
-├── sample_superstore.csv
-├── cleaned_superstore.csv
-├── requirements.txt
-└── README.md
+├── 📂 PowerBI/
+│   └── Sales_Analytics_Dashboard.pbix
+│
+├── 📂 Images/
+│   ├── Executive_Overview.jpg
+│   ├── Product_Profitability.jpg
+│   └── Regional_Customer_Analysis.jpg
+│
+├── 📄 README.md
+└── 📄 Requirements.txt
 ```
 
 ---
