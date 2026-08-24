@@ -181,7 +181,7 @@ Provides a high-level view of overall business performance.
 * Top-performing Products
 * Interactive Slicers
 
-![Executive Overview](Images/executive-overview.jpg)
+![Executive Overview](images/executive-overview.jpg)
 
 ---
 
@@ -202,7 +202,7 @@ Focuses on product-level performance and profitability.
 
 This page helps identify products that generate high revenue but may have weak or negative profitability.
 
-![Product & Profitability](Images/product-profitability.jpg)
+![Product & Profitability](images/product-profitability.jpg)
 
 ---
 
@@ -221,7 +221,7 @@ Focuses on geographic, customer, and shipping performance.
 * Shipping Mode Analysis
 * Delivery Performance
 
-![Regional & Customer Analysis](Images/regional-customer-analysis.jpg)
+![Regional & Customer Analysis](images/regional-customer-analysis.jpg)
 
 ---
 
