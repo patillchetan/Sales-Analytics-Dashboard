@@ -404,5 +404,3 @@ Potential improvements for the next version include:
 **Chetan Patil**
 
 ---
-
-⭐ If you find this project useful, consider giving the repository a star.
